@@ -1,2 +1,2 @@
 # KerrMicrsocopyProcessing
-Labview codes for extracting hysteresis lopps from Kerr images
+Labview codes for extracting hysteresis loops from Kerr images
